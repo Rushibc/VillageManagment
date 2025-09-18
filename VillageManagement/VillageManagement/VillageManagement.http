@@ -1,0 +1,6 @@
+@VillageManagement_HostAddress = http://localhost:5100
+
+GET {{VillageManagement_HostAddress}}/BirthRecords/
+Accept: application/json
+
+###

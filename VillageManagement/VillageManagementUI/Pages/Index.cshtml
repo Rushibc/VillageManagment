@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<!-- 🟨 Scrolling Notification Ticker -->
+<div class=" py-2 overflow-hidden position-relative">
+    <div class="ticker-text position-absolute text-dark fw-bold">
+        📢 Birth registration is now live! &nbsp;&nbsp; | &nbsp;&nbsp;
+        💡 Update all records before month-end! &nbsp;&nbsp; | &nbsp;&nbsp;
+        🗓️ New village census will start soon.
+    </div>
+</div>
+
+<!-- 🏡 Welcome Section -->
+<div class="container mt-5">
+   
+
+    <!-- 🖼️ Village Image -->
+    <!-- 🖼️ Full-Width Village Image Banner -->
+    <!-- 🖼️ Full-Width Image with Text Overlay -->
+    <!-- 🖼️ Full-Width Image with Bottom Text Overlay & Blur -->
+    <div class="position-relative w-100">
+        <!-- Background Image -->
+        <img src="~/images/Village2.png"
+             alt="Village Scene"
+             class="img-fluid w-100"
+             style="max-height: 100vh; object-fit: cover;" />
+
+        <!-- Bottom Overlay with Blur & Animation -->
+        <div class="position-absolute bottom-0 start-50 translate-middle-x text-center text-white px-3 pb-4 animate-overlay"
+             style="backdrop-filter: blur(8px); background-color: rgba(255, 255, 255, 0.1); width: 100%; border-radius: 10px 10px 0 0;">
+            <h1 class="display-5 fw-bold mb-2">Welcome to Gram Sewa</h1>
+            <p class="lead mb-3">Digitally managing vital records for every villager, with care and accuracy.</p>
+            <div>
+                <a asp-page="/BirthRecord/Create" class="btn btn-success btn-lg me-2 animate-btn">📋 Register Birth</a>
+                <a asp-page="/DeathRecord/Create" class="btn btn-danger btn-lg animate-btn">🪦 Register Death</a>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- ✅ Optional: Add Quick Links or Cards -->
+ 
+    </div>
+</div>
+

@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - VillageManagementUI</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Site styles -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/VillageManagementUI.styles.css" asp-append-version="true" />
+</head>
+<body class="bg-warm-light">
+
+    <!-- Navbar -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top shadow-sm">
+            <div class="container">
+                <a class="navbar-brand d-flex align-items-center gap-2" asp-page="/Index">
+                    <img src="~/images/Logo.png" alt="Gram Sewa Logo" style="height: 60px;" class="logo-img" />
+                    <span class="fs-4 fw-bold text-white">Gram Sewa</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar"
+                        aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="mainNavbar">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <!-- Home -->
+                        <li class="nav-item">
+                            <a class="nav-link text-white fw-semibold" asp-page="/Index">Home</a>
+                        </li>
+
+                        <!-- Birth Registration Dropdown -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white fw-semibold" href="#" id="birthDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Birth Registration
+                            </a>
+                            <ul class="dropdown-menu custom-dropdown" aria-labelledby="birthDropdown">
+                                <li><a class="dropdown-item custom-dropdown-item" asp-page="/BirthRecord/Create">Register Birth</a></li>
+                                <li><a class="dropdown-item custom-dropdown-item" asp-page="/BirthRecord/List">View Birth Records</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white fw-semibold" href="#" id="MarriageDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Marriage Registration
+                            </a>
+                            <ul class="dropdown-menu custom-dropdown" aria-labelledby="MarriageDropdown">
+                                <li><a class="dropdown-item custom-dropdown-item" asp-page="/MarriageRecord/Create">Register Marriage</a></li>
+                                <li><a class="dropdown-item custom-dropdown-item" asp-page="/MarriageRecord/List">View Marriage Records</a></li>
+                            </ul>
+                        </li>
+
+                        <!-- Death Registration Dropdown -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white fw-semibold" href="#" id="deathDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Death Registration
+                            </a>
+                            <ul class="dropdown-menu custom-dropdown" aria-labelledby="deathDropdown">
+                                <li><a class="dropdown-item custom-dropdown-item" asp-page="/DeathRecord/Create">Register Death</a></li>
+                                <li><a class="dropdown-item custom-dropdown-item" asp-page="/DeathRecord/List">View Death Records</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+
+                    <span class="navbar-text text-white small">
+                        Empowering Villages with Digital Records
+                    </span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container mt-4">
+        <main role="main" class="pb-4">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-light text-center text-muted py-3 border-top">
+        <div class="container">
+            &copy; 2025 - <strong>VillageManagementUI</strong> | <a asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom Scripts -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

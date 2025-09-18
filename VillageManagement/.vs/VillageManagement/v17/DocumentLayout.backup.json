@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\villagemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\villagemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\marriagerecord\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\marriagerecord\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\marriagerecord\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\marriagerecord\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\model\\marriagerecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\model\\marriagerecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\marriagerecord\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\marriagerecord\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\marriagerecord\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\marriagerecord\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\deathrecord\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\deathrecord\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\deathrecord\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\deathrecord\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\model\\searchitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\model\\searchitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\controllers\\marriagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\controllers\\marriagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\models\\marriagerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\models\\marriagerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\deathrecord\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\deathrecord\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\birthrecord\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\birthrecord\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\dto\\birthrecordreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\dto\\birthrecordreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\dto\\birthrecordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\dto\\birthrecordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\dto\\searchdeathrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\dto\\searchdeathrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\dto\\createdeathrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\dto\\createdeathrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\models\\birthrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\models\\birthrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\models\\deathrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\models\\deathrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\controllers\\deathrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\controllers\\deathrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\model\\deathrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\model\\deathrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\birthrecord\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\birthrecord\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\deathrecord\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\deathrecord\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\model\\birthrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\model\\birthrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\model\\birthrecordreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\model\\birthrecordreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\model\\birthrecordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\model\\birthrecordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\birthrecord\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\birthrecord\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\controllers\\birthrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\controllers\\birthrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\birthrecord\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\birthrecord\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagementui\\villagemanagementui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6E64E00-6283-4684-808A-B04FB6B942FE}|VillageManagementUI\\VillageManagementUI.csproj|solutionrelative:villagemanagementui\\villagemanagementui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\common\\birthdateinpastattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\common\\birthdateinpastattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\villagemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\villagemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\migrations\\20250913151823_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\migrations\\20250913151823_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|c:\\users\\user\\source\\repos\\villagemanagment\\villagemanagement\\villagemanagement\\migrations\\20250915140403_adddeathrecordtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC254E-CB47-4FE6-86E4-A8D521A1D9C4}|VillageManagement\\VillageManagement.csproj|solutionrelative:villagemanagement\\migrations\\20250915140403_adddeathrecordtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\BirthRecord\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\BirthRecord\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\BirthRecord\\Create.cshtml.cs",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\BirthRecord\\Create.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:25:54.601Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\DeathRecord\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\DeathRecord\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\DeathRecord\\Create.cshtml.cs",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\DeathRecord\\Create.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:46:20.756Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillageManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\VillageManagement.csproj",
+              "RelativeDocumentMoniker": "VillageManagement\\VillageManagement.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\VillageManagement.csproj",
+              "RelativeToolTip": "VillageManagement\\VillageManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T15:10:13.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "VillageManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:12:54.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Program.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Program.cs",
+              "RelativeToolTip": "VillageManagement\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:14:24.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Program.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Program.cs",
+              "RelativeToolTip": "VillageManagementUI\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:41:22.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\MarriageRecord\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\MarriageRecord\\List.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\MarriageRecord\\List.cshtml.cs",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\MarriageRecord\\List.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:56:48.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\MarriageRecord\\Create.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\MarriageRecord\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\MarriageRecord\\Create.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\MarriageRecord\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:47:24.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T08:45:30.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\SearchItem.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Model\\SearchItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\SearchItem.cs",
+              "RelativeToolTip": "VillageManagementUI\\Model\\SearchItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:33:39.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\MarriageRecord\\List.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\MarriageRecord\\List.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\MarriageRecord\\List.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\MarriageRecord\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:56:11.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarriageRecordModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\MarriageRecordModel.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Model\\MarriageRecordModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\MarriageRecordModel.cs",
+              "RelativeToolTip": "VillageManagementUI\\Model\\MarriageRecordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:51:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\DeathRecord\\List.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\DeathRecord\\List.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\DeathRecord\\List.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\DeathRecord\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T13:44:31.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\DeathRecord\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\DeathRecord\\List.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\DeathRecord\\List.cshtml.cs",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\DeathRecord\\List.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:02:50.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\MarriageRecord\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\MarriageRecord\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\MarriageRecord\\Create.cshtml.cs",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\MarriageRecord\\Create.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:50:20.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarriageController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Controllers\\MarriageController.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Controllers\\MarriageController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Controllers\\MarriageController.cs",
+              "RelativeToolTip": "VillageManagement\\Controllers\\MarriageController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:19:36.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MarriageRecord.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Models\\MarriageRecord.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Models\\MarriageRecord.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Models\\MarriageRecord.cs",
+              "RelativeToolTip": "VillageManagement\\Models\\MarriageRecord.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:15:05.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BirthRecordReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\DTO\\BirthRecordReadDto.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\DTO\\BirthRecordReadDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\DTO\\BirthRecordReadDto.cs",
+              "RelativeToolTip": "VillageManagement\\DTO\\BirthRecordReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T06:17:41.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BirthRecordCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\DTO\\BirthRecordCreateDto.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\DTO\\BirthRecordCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\DTO\\BirthRecordCreateDto.cs",
+              "RelativeToolTip": "VillageManagement\\DTO\\BirthRecordCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T06:17:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchDeathRecordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\DTO\\SearchDeathRecordDTO.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\DTO\\SearchDeathRecordDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\DTO\\SearchDeathRecordDTO.cs",
+              "RelativeToolTip": "VillageManagement\\DTO\\SearchDeathRecordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:01:54.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateDeathRecordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\DTO\\CreateDeathRecordDTO.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\DTO\\CreateDeathRecordDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\DTO\\CreateDeathRecordDTO.cs",
+              "RelativeToolTip": "VillageManagement\\DTO\\CreateDeathRecordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:59:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BirthRecords.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Models\\BirthRecords.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Models\\BirthRecords.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Models\\BirthRecords.cs",
+              "RelativeToolTip": "VillageManagement\\Models\\BirthRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:09:34.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeathRecord.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Models\\DeathRecord.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Models\\DeathRecord.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Models\\DeathRecord.cs",
+              "RelativeToolTip": "VillageManagement\\Models\\DeathRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:53:28.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeathRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Controllers\\DeathRecordsController.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Controllers\\DeathRecordsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Controllers\\DeathRecordsController.cs",
+              "RelativeToolTip": "VillageManagement\\Controllers\\DeathRecordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:47:59.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeathRecordModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\DeathRecordModel.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Model\\DeathRecordModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\DeathRecordModel.cs",
+              "RelativeToolTip": "VillageManagementUI\\Model\\DeathRecordModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:41:21.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "VillageManagementUI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "VillageManagementUI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwH8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-15T11:45:14.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VillageManagementUI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T17:39:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\Index.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T11:21:26.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "VillageManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\appsettings.json",
+              "RelativeToolTip": "VillageManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T15:16:52.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VillageManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VillageManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T15:27:55.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\BirthRecord\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\BirthRecord\\List.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\BirthRecord\\List.cshtml.cs",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\BirthRecord\\List.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:41:56.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\DeathRecord\\Create.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\DeathRecord\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\DeathRecord\\Create.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\DeathRecord\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T13:44:11.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BirthRecordModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\BirthRecordModel.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Model\\BirthRecordModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\BirthRecordModel.cs",
+              "RelativeToolTip": "VillageManagementUI\\Model\\BirthRecordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:14:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BirthRecordReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\BirthRecordReadDto.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Model\\BirthRecordReadDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\BirthRecordReadDto.cs",
+              "RelativeToolTip": "VillageManagementUI\\Model\\BirthRecordReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:46:36.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BirthRecordCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\BirthRecordCreateDto.cs",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Model\\BirthRecordCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Model\\BirthRecordCreateDto.cs",
+              "RelativeToolTip": "VillageManagementUI\\Model\\BirthRecordCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:30:00.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\BirthRecord\\Create.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\BirthRecord\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\BirthRecord\\Create.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\BirthRecord\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T08:23:04.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BirthRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Controllers\\BirthRecordsController.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Controllers\\BirthRecordsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Controllers\\BirthRecordsController.cs",
+              "RelativeToolTip": "VillageManagement\\Controllers\\BirthRecordsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:24:15.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\BirthRecord\\List.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\BirthRecord\\List.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\BirthRecord\\List.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\BirthRecord\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T08:41:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250915140403_AddDeathRecordTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Migrations\\20250915140403_AddDeathRecordTable.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Migrations\\20250915140403_AddDeathRecordTable.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Migrations\\20250915140403_AddDeathRecordTable.cs",
+              "RelativeToolTip": "VillageManagement\\Migrations\\20250915140403_AddDeathRecordTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:04:03.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VillageManagementUI\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "VillageManagementUI\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T08:45:19.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "VillageManagementUI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\VillageManagementUI.csproj",
+              "RelativeDocumentMoniker": "VillageManagementUI\\VillageManagementUI.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagementUI\\VillageManagementUI.csproj",
+              "RelativeToolTip": "VillageManagementUI\\VillageManagementUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T08:24:15.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BirthDateInPastAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Common\\BirthDateInPastAttribute.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Common\\BirthDateInPastAttribute.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Common\\BirthDateInPastAttribute.cs",
+              "RelativeToolTip": "VillageManagement\\Common\\BirthDateInPastAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T06:20:29.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VillageManagement.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\VillageManagement.http",
+              "RelativeDocumentMoniker": "VillageManagement\\VillageManagement.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\VillageManagement.http",
+              "RelativeToolTip": "VillageManagement\\VillageManagement.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-13T15:29:59.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "VillageManagement\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\appsettings.Development.json",
+              "RelativeToolTip": "VillageManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T15:30:04.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250913151823_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Migrations\\20250913151823_InitialCreate.cs",
+              "RelativeDocumentMoniker": "VillageManagement\\Migrations\\20250913151823_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VillageManagment\\VillageManagement\\VillageManagement\\Migrations\\20250913151823_InitialCreate.cs",
+              "RelativeToolTip": "VillageManagement\\Migrations\\20250913151823_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:18:23.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

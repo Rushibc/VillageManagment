@@ -1,0 +1,68 @@
+﻿@page
+@model CreateModel
+@{
+    ViewData["Title"] = "Register Birth";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Register Birth</h2>
+
+    <form method="post" class="row g-3 shadow p-4 rounded bg-light">
+        <div class="col-md-6">
+            <label asp-for="BirthRecord.FullName" class="form-label">Full Name</label>
+            <input asp-for="BirthRecord.FullName" class="form-control" />
+            <span asp-validation-for="BirthRecord.FullName" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="BirthRecord.BirthDate" class="form-label">Birth Date</label>
+            <input asp-for="BirthRecord.BirthDate" type="date" class="form-control" />
+            <span asp-validation-for="BirthRecord.BirthDate" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="BirthRecord.Gender" class="form-label">Gender</label>
+            <select asp-for="BirthRecord.Gender" class="form-select">
+                <option value="">-- Select --</option>
+                <option>Male</option>
+                <option>Female</option>
+                <option>Other</option>
+            </select>
+            <span asp-validation-for="BirthRecord.Gender" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="BirthRecord.PlaceOfBirth" class="form-label">Place of Birth</label>
+            <input asp-for="BirthRecord.PlaceOfBirth" class="form-control" />
+            <span asp-validation-for="BirthRecord.PlaceOfBirth" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="BirthRecord.FatherName" class="form-label">Father's Name</label>
+            <input asp-for="BirthRecord.FatherName" class="form-control" />
+            <span asp-validation-for="BirthRecord.FatherName" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="BirthRecord.MotherName" class="form-label">Mother's Name</label>
+            <input asp-for="BirthRecord.MotherName" class="form-control" />
+            <span asp-validation-for="BirthRecord.MotherName" class="text-danger"></span>
+        </div>
+
+        <div class="col-12">
+            <label asp-for="BirthRecord.Address" class="form-label">Address</label>
+            <input asp-for="BirthRecord.Address" class="form-control" />
+            <span asp-validation-for="BirthRecord.Address" class="text-danger"></span>
+        </div>
+
+        <div class="col-12">
+            <label asp-for="BirthRecord.RegisteredBy" class="form-label">Registered By</label>
+            <input asp-for="BirthRecord.RegisteredBy" class="form-control" />
+            <span asp-validation-for="BirthRecord.RegisteredBy" class="text-danger"></span>
+        </div>
+
+        <div class="col-12 text-end">
+            <button type="submit" class="btn btn-primary px-4">Submit</button>
+        </div>
+    </form>
+</div>

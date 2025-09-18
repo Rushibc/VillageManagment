@@ -1,0 +1,54 @@
+﻿@page
+@model CreateModel
+@{
+    ViewData["Title"] = "Register Death";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Register a Death Record</h2>
+
+    @if (!string.IsNullOrEmpty(Model.Message))
+    {
+        <div class="alert alert-@Model.AlertType">
+            @Model.Message
+        </div>
+    }
+
+    <form method="post" class="row g-3">
+        <div class="col-md-6">
+            <label asp-for="DeathRecord.FullName" class="form-label">Full Name</label>
+            <input asp-for="DeathRecord.FullName" class="form-control" />
+            <span asp-validation-for="DeathRecord.FullName" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="DeathRecord.DateOfDeath" class="form-label">Date of Death</label>
+            <input asp-for="DeathRecord.DateOfDeath" type="date" class="form-control" />
+            <span asp-validation-for="DeathRecord.DateOfDeath" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="DeathRecord.CauseOfDeath" class="form-label">Cause of Death</label>
+            <input asp-for="DeathRecord.CauseOfDeath" class="form-control" />
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="DeathRecord.PlaceOfDeath" class="form-label">Place of Death</label>
+            <input asp-for="DeathRecord.PlaceOfDeath" class="form-control" />
+        </div>
+
+        <div class="col-md-6">
+            <label asp-for="DeathRecord.RegisteredBy" class="form-label">Registered By</label>
+            <input asp-for="DeathRecord.RegisteredBy" class="form-control" />
+        </div>
+
+        <div class="col-12">
+            <button type="submit" class="btn btn-dark">Submit</button>
+            <a asp-page="List" class="btn btn-outline-secondary ms-2">Cancel</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
