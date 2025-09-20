@@ -21,7 +21,7 @@ namespace VillageManagementUI.Model
         public string RegisteredBy { get; set; }
 
         public string Remarks { get; set; }
+        public string? CertificateNumber { get; set; }
 
-        public string CertificateNumber { get; set; }
     }
 }

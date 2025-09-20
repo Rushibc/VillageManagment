@@ -271,6 +271,7 @@ C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagement\
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagement\obj\Debug\net8.0\VillageManagement.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagement\obj\Debug\net8.0\VillageManagement.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagement\obj\Debug\net8.0\VillageManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagement\obj\Debug\net8.0\VillageManagement.sourcelink.json
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagement\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagement\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagement\obj\Debug\net8.0\staticwebassets\msbuild.VillageManagement.Microsoft.AspNetCore.StaticWebAssets.props

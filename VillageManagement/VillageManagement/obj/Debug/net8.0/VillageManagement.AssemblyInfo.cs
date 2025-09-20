@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VillageManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ef25611fe95e94b7c6462ad87ea5fd23c6f426")]
 [assembly: System.Reflection.AssemblyProductAttribute("VillageManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VillageManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
