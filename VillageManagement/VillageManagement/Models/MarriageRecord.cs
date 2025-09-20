@@ -23,6 +23,6 @@ namespace VillageManagement.Models
 
         public string Remarks { get; set; }
 
-        public string CertificateNumber { get; set; }
+        public string? CertificateNumber { get; set; }
     }
 }

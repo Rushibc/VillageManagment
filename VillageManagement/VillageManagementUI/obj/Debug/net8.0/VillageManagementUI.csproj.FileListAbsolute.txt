@@ -262,6 +262,7 @@ C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagementU
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagementUI\obj\Debug\net8.0\VillageManagementUI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagementUI\obj\Debug\net8.0\VillageManagementUI.RazorAssemblyInfo.cache
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagementUI\obj\Debug\net8.0\VillageManagementUI.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagementUI\obj\Debug\net8.0\VillageManagementUI.sourcelink.json
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagementUI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagementUI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\User\source\repos\VillageManagment\VillageManagement\VillageManagementUI\obj\Debug\net8.0\staticwebassets\msbuild.VillageManagementUI.Microsoft.AspNetCore.StaticWebAssets.props

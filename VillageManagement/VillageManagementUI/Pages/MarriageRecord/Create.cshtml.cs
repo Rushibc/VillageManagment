@@ -10,11 +10,11 @@ namespace VillageManagementUI.Pages.MarriageRecord
 {
     public class CreateModel : PageModel
     {
-        private readonly IHttpClientFactory _httpClientFactory;
+        private readonly IHttpClientFactory _clientFactory;
 
-        public CreateModel(IHttpClientFactory httpClientFactory)
+        public CreateModel(IHttpClientFactory clientFactory)
         {
-            _httpClientFactory = httpClientFactory;
+            _clientFactory = clientFactory;
         }
 
         [BindProperty]
@@ -30,11 +30,11 @@ namespace VillageManagementUI.Pages.MarriageRecord
             if (!ModelState.IsValid)
                 return Page();
 
-            var httpClient = _httpClientFactory.CreateClient();
-            var jsonContent = JsonConvert.SerializeObject(MarriageRecord);
-            var content = new StringContent(jsonContent, Encoding.UTF8, "application/json");
+            var client = _clientFactory.CreateClient("API");
+            var json = JsonConvert.SerializeObject(MarriageRecord);
+            var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-            var response = await httpClient.PostAsync("https://localhost:7060/api/Marriage/Create", content);
+            var response = await client.PostAsync("https://localhost:7060/api/Marriage/Create", content);
 
             if (response.IsSuccessStatusCode)
             {

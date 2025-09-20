@@ -39,7 +39,15 @@ namespace VillageManagement.Controllers
         public async Task<ActionResult<MarriageRecord>> Create(MarriageRecord record)
         {
             _context.MarriageRecords.Add(record);
+            _context.SaveChangesAsync(); // Now model.Id is populated
+
+            // Step 2: Generate CertificateNumber using the new Id
+            record.CertificateNumber = $"CERT-{record.Id:D5}";
+
+            // Step 3: Update the record with the certificate number
+            _context.MarriageRecords.Update(record);
             await _context.SaveChangesAsync();
+
 
             return CreatedAtAction(nameof(GetById), new { id = record.Id }, record);
         }
